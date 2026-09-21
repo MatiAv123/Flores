@@ -1,4 +1,4 @@
 onload = () =>{
     document.body.classList.remove("container");
-    fetch("https://api.countapi.xyz/hit/matiav123-flores/visitas").catch(() => {});
+    fetch("https://countapi.mileshilliard.com/api/v1/hit/matiav123-flores-visitas").catch(() => {});
 };
